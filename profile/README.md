@@ -2,7 +2,7 @@
 
 ## What is Smarthome?
 Smarthome is a completely self-build home-automation system written in Go *(backend)* and Svelte *(frontend)*.
-The system focuses on functionality and simplicity in order to guarantee a stable and reliable home-automation system which is actually helpful in automating common tasks.
+The system focuses on functionality and simplicity in order to guarantee a stable and reliable home-automation system, which is actually helpful in automating common tasks.
 
 ### Concepts
 - Completely self-hostable on your own infrastructure
