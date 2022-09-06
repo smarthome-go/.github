@@ -24,7 +24,7 @@ Naturally, the use of node requires physical hardware in order to communicate wi
 However, support for additional hardware, for example Zigbee devices is planned and would open additional possibilities, for example integration with other hardware.
 
 ## Getting Started
-A guide for getting started can be found [here](./docs/Quickstart.md).
+A guide for getting started can be found [here](https://github.com/smarthome-go/smarthome/blob/main/docs/Quickstart.md).
 
 ## Showcase
 A comprehensive list of screenshots can be found [here](https://github.com/smarthome-go/docs/blob/main/server/screenshots/README.md)  
